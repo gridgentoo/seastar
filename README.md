@@ -1,3 +1,6 @@
+Original repositary    
+https://github.com/scylladb/seastar    
+
 Seastar
 =======
 
